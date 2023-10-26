@@ -1,5 +1,3 @@
-Claro, aqui está a descrição simplificada sem a seção "Como Contribuir":
-
 **Repositório de Projetos Pessoais em Java**
 
 Este é o meu repositório pessoal de projetos em Java. Aqui, compartilho meus próprios projetos, códigos e experimentos desenvolvidos em Java. Sinta-se à vontade para explorar e aproveitar o conteúdo!
