@@ -1,24 +1,13 @@
-**Repositório de Projetos e Atividades em Java para Faculdade**
+Claro, aqui está a descrição simplificada sem a seção "Como Contribuir":
 
-Este repositório é um espaço dedicado ao armazenamento de projetos e atividades de programação em Java voltados para estudantes universitários. Aqui você encontrará exemplos de código, exercícios práticos e trabalhos acadêmicos relacionados à linguagem Java.
+**Repositório de Projetos Pessoais em Java**
+
+Este é o meu repositório pessoal de projetos em Java. Aqui, compartilho meus próprios projetos, códigos e experimentos desenvolvidos em Java. Sinta-se à vontade para explorar e aproveitar o conteúdo!
 
 ## Conteúdo
 
-- **Projetos Java**: Demonstração de aplicativos funcionais em Java com comentários detalhados.
+- **Projetos Java**: Projetos desenvolvidos por mim em Java.
 
-- **Exercícios de Laboratório**: Soluções para tarefas comuns em cursos de programação Java.
+- **Códigos de Exemplo**: Trechos de código que podem ser úteis como referência.
 
-- **Trabalhos Acadêmicos**: Projetos maiores, incluindo sistemas de informação e aplicativos de gerenciamento.
-
-- **Exercícios de Prática**: Desafios específicos para aprimorar habilidades em Java.
-
-## Objetivos
-
-1. **Apoio ao Aprendizado**: Auxiliar estudantes no aprendizado da linguagem Java.
-
-2. **Compartilhamento de Conhecimento**: Compartilhar práticas recomendadas e soluções.
-
-3. **Colaboração**: Encorajar a colaboração entre estudantes.
-
-4. **Inspiração**: Inspirar inovação e criatividade em projetos Java.
-
+Aproveite os projetos e o código disponíveis! Se tiver alguma pergunta ou desejar saber mais sobre algum projeto específico, fique à vontade para entrar em contato.
