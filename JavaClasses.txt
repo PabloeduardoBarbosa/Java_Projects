@@ -1,0 +1,68 @@
+Em Java, as classes desempenham um papel fundamental na organização e estruturação de um programa. Uma classe é um modelo ou blueprint que define os atributos e comportamentos de objetos. Ela é a base da programação orientada a objetos (POO) em Java, permitindo a criação de instâncias de objetos a partir dessa definição.
+
+Aqui estão alguns conceitos-chave relacionados a classes em Java:
+
+1. Definição de Classe:
+   Uma classe é definida usando a palavra-chave "class" seguida pelo nome da classe. Ela geralmente contém variáveis de instância (atributos) e métodos.
+
+   Exemplo de declaração de classe:
+   ```java
+   public class MinhaClasse {
+       // Atributos
+       int numero;
+       String nome;
+
+       // Métodos
+       void imprimirDados() {
+           System.out.println("Número: " + numero);
+           System.out.println("Nome: " + nome);
+       }
+   }
+   ```
+
+2. Objeto:
+   Um objeto é uma instância de uma classe. Você pode criar múltiplos objetos a partir da mesma classe. Por exemplo, usando a classe "MinhaClasse" definida acima, você pode criar objetos da seguinte forma:
+   ```java
+   MinhaClasse objeto1 = new MinhaClasse();
+   MinhaClasse objeto2 = new MinhaClasse();
+   ```
+
+3. Atributos:
+   Os atributos de uma classe representam características ou dados que pertencem a cada objeto criado a partir da classe. No exemplo acima, "numero" e "nome" são atributos da classe "MinhaClasse".
+
+4. Métodos:
+   Métodos são funções definidas dentro de uma classe que definem o comportamento dos objetos dessa classe. No exemplo, "imprimirDados" é um método que imprime os valores dos atributos "numero" e "nome" do objeto.
+
+5. Modificadores de Acesso:
+   Java fornece modificadores de acesso para controlar a visibilidade de atributos e métodos em uma classe. Os principais modificadores de acesso são "public," "private," "protected," e "default" (sem modificador). Eles determinam quem pode acessar ou modificar os membros da classe.
+
+   - "public": Acessível de qualquer lugar.
+   - "private": Apenas acessível dentro da própria classe.
+   - "protected": Acessível dentro da classe e por subclasses.
+   - Sem modificador (default): Acessível apenas no mesmo pacote.
+
+6. Construtores:
+   Os construtores são métodos especiais usados para inicializar objetos quando são criados. Uma classe pode ter um ou mais construtores. Se nenhum construtor é definido, a classe terá um construtor padrão sem argumentos.
+
+   Exemplo de construtor:
+   ```java
+   public MinhaClasse(int numero, String nome) {
+       this.numero = numero;
+       this.nome = nome;
+   }
+   ```
+
+7. Herança:
+   Java suporta herança, que permite que uma classe herde atributos e métodos de outra classe. Isso promove a reutilização de código e a criação de hierarquias de classes.
+
+   Exemplo de herança:
+   ```java
+   public class SubClasse extends SuperClasse {
+       // ...
+   }
+   ```
+
+8. Encapsulamento:
+   O encapsulamento é o princípio de ocultar detalhes internos de uma classe e fornecer métodos públicos para acessar e modificar seus atributos. Isso ajuda a manter o código seguro e organizado.
+
+Esses são os conceitos fundamentais relacionados a classes em Java. Classes desempenham um papel crucial na construção de programas Java orientados a objetos e são essenciais para organizar e estruturar o código de forma eficiente.
